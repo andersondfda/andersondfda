@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andersondfda
-- 👀 I’m interested in PHP / Javascript / HTML5 / CSS3
-- 🌱 I’m currently learning MVC structure
+- 👀 I’m interested in Python / PHP / Javascript / HTML5 / CSS3
+- 🌱 I’m currently learning MVC structure and Blockchain
 - 💞️ I’m looking to collaborate on On Demand Learn System
 - 📫 How to reach me contato@andersonsatori.com.br
 
